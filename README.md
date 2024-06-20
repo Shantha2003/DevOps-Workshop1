@@ -1,4 +1,5 @@
 # Ansible Workshop
+20-06-2024
 
 One Day workshop on understanding Ansible to automate cloud provisioning, configuration management, application deployment, intra-service orchestration, 
 and many other IT needs.
