@@ -10,5 +10,4 @@ all:
     dbserver:
       hosts:
         bar.example.com:
-        canara.example.com:
           ansible_connection: local
